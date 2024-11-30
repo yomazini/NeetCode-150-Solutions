@@ -244,14 +244,6 @@ Below is a categorized list of all the problems. Click on a problem to visit it 
 | Graph Valid Tree                      | [Link](https://leetcode.com/problems/graph-valid-tree/)             |
 | Word Ladder                           | [Link](https://leetcode.com/problems/word-ladder/)                  |
 
----
-
-Let me know if you'd like to continue or expand further!
-
----
-
-Here is the continuation of the table, categorized as per your request:
-
 
 ### 📂 Advanced Graphs
 | Problem                                   | Link                                                                 |
@@ -346,8 +338,6 @@ Here is the continuation of the table, categorized as per your request:
 ---
 
 **Disclaimer**: Solutions are for learning purposes. Always strive to understand the underlying concepts!
-
----
 
 ## 🎭 Author
 
