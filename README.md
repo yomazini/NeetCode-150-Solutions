@@ -39,8 +39,11 @@ This repository documents my journey through the NeetCode 150 problem set, desig
 ## 🛠 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms-blueviolet?style=for-the-badge)
 
 
