@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This repository documents my journey through the NeetCode 150 problem set, designed to comprehensively prepare for technical interviews at top tech companies. Each problem is solved with multiple approaches, focusing on optimal time and space complexity.
+This repository documents my journey through the NeetCode 150 problem set, designed to comprehensively prepare for technical interviews. Each problem is solved with multiple approaches, focusing on optimal time and space complexity.
 
 ## 🌟 Why This Repository?
 
@@ -16,7 +16,7 @@ This repository documents my journey through the NeetCode 150 problem set, desig
 
 ## 📊 Progress Tracker
 
-- [ ] ✅ 🧮 **Arrays & Hashing** (0/9)
+**- [ ] ✅ 🧮 **Arrays & Hashing** (0/9)
 - [ ] ❎ 🔄 **Two Pointers** (0/5)  
 - [ ] ❎ 📚 **Stack** (0/7)  
 - [ ] ❎ 🚪 **Sliding Window** (0/6)  
@@ -34,7 +34,7 @@ This repository documents my journey through the NeetCode 150 problem set, desig
 - [ ] ❎ 🕒 **Intervals** (0/6)  
 - [ ] ❎ 📐 **Math & Geometry** (0/8)  
 - [ ] ❎ 💡 **Bit Manipulation** (0/7)  
-
+**
 ---
 
 ## 🧠 Learning Approach
