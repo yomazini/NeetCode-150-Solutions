@@ -4,8 +4,6 @@
 
 This repository documents my journey through the NeetCode 150 problem set, designed to comprehensively prepare for technical interviews at top tech companies. Each problem is solved with multiple approaches, focusing on optimal time and space complexity.
 
----
-
 ## 🌟 Why This Repository?
 
 - 🏆 **Comprehensive Coverage**: Includes all **150 problems** categorized by topic.
@@ -79,14 +77,15 @@ This repository documents my journey through the NeetCode 150 problem set, desig
    ```
 3. **Run the solution in your preferred programming language**:
    ```bash
+   # if Python
    python3 solution.py
    ```
-   ```c
-   //if C run it with gcc
+   ```bash
+   # if C run it with gcc
 	gcc main.c 
    ```
-	```c++
-	// if C++ run it with g
+	```bash
+	# if C++ run it with g
 	g++ main.cpp
 	```
 
